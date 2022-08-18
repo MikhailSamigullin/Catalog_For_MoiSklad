@@ -1,1 +1,6 @@
 .env.development
+node_modules
+db.js
+package-lock.json
+package.json
+updateDB.js
